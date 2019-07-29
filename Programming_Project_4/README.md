@@ -4,17 +4,17 @@ Decision trees in Spark environment using the APIs and your own program and comp
 
 1.	(40) Use the MLLib API of Spark to construct a decision tree for the Breast Cancer Diagnostic data (Data-Link1) (we call it dataset1), available from the UC-Irvine ML repository. Select appropriate parameters to generate only a 3-level deep decision tree. Submit the following.
 
-a.	Your program code.
+      a.	Your program code.
 
-b.	The choice of parameters and attribute selection metric (Gini index, info gain, etc.) used.
+      b.	The choice of parameters and attribute selection metric (Gini index, info gain, etc.) used.
 
-c.	Any assumptions made.
+      c.	Any assumptions made.
 
-d.	Validation and Train/Test Strategy used.
+      d.	Validation and Train/Test Strategy used.
 
-e.	Decision tree Obtained.
+      e.	Decision tree Obtained.
 
-f.	Performance shown by the confusion matrix.
+      f.	Performance shown by the confusion matrix.
 
 2.	(60) Now use your own code to build a decision tree in Spark. Model your algorithm based on the homework assignment you did for designing the decision tree learning algorithm. Use excactly the same parameter choices as used in (1.) above. 
 
