@@ -10,7 +10,7 @@ This Programming assignment goals:
 
 Will 2-gram TFIDF provides more information than 1-gram? Can it provide the details about what the document is? 
 
-The answers to the above questions can be found by goining through the two Ipython Notebooks:
+The solution to the above questions are discussed in deatail in the following two Ipython Notebooks:
 
 1. Solutions.ipnyb
 
