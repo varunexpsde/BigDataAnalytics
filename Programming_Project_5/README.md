@@ -4,4 +4,4 @@ This programming project is a hands-on learning of the concepts: Matrix Factoriz
 
 To view Jupyter notebook in clean HTML format click here:
 
-http://htmlpreview.github.io/?https://github.com/VarunRaj7/BigDataAnalytics/blob/master/Programming_Project_5/Programming_Project_5%20Solutions.html
+!HTML Preview [http://htmlpreview.github.io/?https://github.com/VarunRaj7/BigDataAnalytics/blob/master/Programming_Project_5/Programming_Project_5%20Solutions.html]
